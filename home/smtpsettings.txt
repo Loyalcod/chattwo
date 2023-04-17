@@ -1,0 +1,13 @@
+Xt1701e70
+developerstudentdummysmtp@techhqofficial.com
+
+Setting	Value
+Username	developerstudentdummysmtp@techhqofficial.com
+Password	Use the email account’s password.
+Incoming Server	imap.stackmail.com (for POP3 use pop3.stackmail.com)
+IMAP Port	993 (143 for non-SSL)
+POP3 Port	995 (110 for non-SSL)
+Outgoing Server	smtp.stackmail.com
+SMTP Port	465 (25 or 587 for non-SSL)
+Username	developerstudentdummysmtp@techhqofficial.com
+Authentication is required for IMAP, POP3, and SMTP.
